@@ -6,13 +6,13 @@
         [4, "hh"]
     ],
     "StatusData": {
-        "Shark Hub": "On",
-        "API": "On",
-        "Launcher": "On"
+        "EzHub": "Online",
+        "EzAPI": "Online",
+        "EzLauncher": "Online"
     },
-    "LatestVersion": "https://raw.githubusercontent.com/sharksharksharkshark/bookish-octo-goggles/main/idk.txt",
+    "LatestVersion": "https://raw.githubusercontent.com/sharksharksharkshark/glowing-octo-funicular/main/idk.txt",
     "Themes": {
-        "预设": {
+        "Default": {
             "ThemeIndex": 1,
             "Primary": [41, 53, 68],
             "Secondary": [35, 47, 62],
@@ -21,7 +21,7 @@
             "ScrollBarColor": [14, 21, 30],
             "DefaultTextColor": [255, 255, 255]
         },
-        "黑暗": {
+        "Dark": {
             "ThemeIndex": 2,
             "Primary": [25, 25, 25],
             "Secondary": [30, 30, 30],
@@ -30,7 +30,7 @@
             "ScrollBarColor": [14, 21, 30],
             "DefaultTextColor": [255, 255, 255]
         },
-        "黑色和红色": {
+        "Black and Red": {
             "ThemeIndex": 3,
             "Primary": [25, 25, 25],
             "Secondary": [30, 30, 30],
@@ -39,7 +39,7 @@
             "ScrollBarColor": [14, 21, 30],
             "DefaultTextColor": [240, 240, 240]
         },
-        "绉粉": {
+        "Crepe Pink": {
             "ThemeIndex": 4,
             "Primary": [213, 153, 125],
             "Secondary": [203, 133, 101],
@@ -48,7 +48,7 @@
             "ScrollBarColor": [14, 21, 30],
             "DefaultTextColor": [255, 255, 255]
         },
-        "水湖": {
+        "Aqua Lake": {
             "ThemeIndex": 5,
             "Primary": [53, 99, 96],
             "Secondary": [89, 149, 156],
