@@ -12,7 +12,7 @@
     },
     "LatestVersion": "https://raw.githubusercontent.com/sharksharksharkshark/jubilant-robot/main/idk.txt",
     "Themes": {
-        "Default": {
+        "预设": {
             "ThemeIndex": 1,
             "Primary": [41, 53, 68],
             "Secondary": [35, 47, 62],
@@ -21,7 +21,7 @@
             "ScrollBarColor": [14, 21, 30],
             "DefaultTextColor": [255, 255, 255]
         },
-        "Dark": {
+        "黑暗": {
             "ThemeIndex": 2,
             "Primary": [25, 25, 25],
             "Secondary": [30, 30, 30],
@@ -30,7 +30,7 @@
             "ScrollBarColor": [14, 21, 30],
             "DefaultTextColor": [255, 255, 255]
         },
-        "Black and Red": {
+        "黑色和红色": {
             "ThemeIndex": 3,
             "Primary": [25, 25, 25],
             "Secondary": [30, 30, 30],
@@ -39,7 +39,7 @@
             "ScrollBarColor": [14, 21, 30],
             "DefaultTextColor": [240, 240, 240]
         },
-        "Crepe Pink": {
+        "绉粉": {
             "ThemeIndex": 4,
             "Primary": [213, 153, 125],
             "Secondary": [203, 133, 101],
@@ -48,7 +48,7 @@
             "ScrollBarColor": [14, 21, 30],
             "DefaultTextColor": [255, 255, 255]
         },
-        "Aqua Lake": {
+        "水湖": {
             "ThemeIndex": 5,
             "Primary": [53, 99, 96],
             "Secondary": [89, 149, 156],
