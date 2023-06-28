@@ -6,9 +6,9 @@
         [4, "hh"]
     ],
     "StatusData": {
-        "Shark Hub": "线上",
-        "API": "线上",
-        "Launcher": "线上"
+        "Shark Hub": "On",
+        "API": "On",
+        "Launcher": "On"
     },
     "LatestVersion": "https://raw.githubusercontent.com/sharksharksharkshark/bookish-octo-goggles/main/idk.txt",
     "Themes": {
